@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sara-Holanda/static/css/main.32156fed.css",
+    "main.js": "/Sara-Holanda/static/js/main.5b2f2a72.js",
+    "static/media/anemone.ttf": "/Sara-Holanda/static/media/anemone.b0cea21569115bf61c40.ttf",
+    "static/media/reactlogo.svg": "/Sara-Holanda/static/media/reactlogo.4ea2cb65ac0080970bfacc7e776ce781.svg",
+    "static/media/webdes.svg": "/Sara-Holanda/static/media/webdes.bf93c51947b7c1cca3caee482095675a.svg",
+    "static/media/github.svg": "/Sara-Holanda/static/media/github.9a8a2b06d602d9aeb7dd40a6602b392d.svg",
+    "static/media/linkedin.svg": "/Sara-Holanda/static/media/linkedin.9f00295fa555da86290859165bf866d3.svg",
+    "static/media/lines.svg": "/Sara-Holanda/static/media/lines.8c71b6be428630d7a6740a0dd904ec5a.svg",
+    "static/media/mail.svg": "/Sara-Holanda/static/media/mail.f9082d29c07ce4ae913c248b833597bf.svg",
+    "static/media/cloud.svg": "/Sara-Holanda/static/media/cloud.8bc228103188364a46df906192c91869.svg",
+    "index.html": "/Sara-Holanda/index.html",
+    "static/media/logo.svg": "/Sara-Holanda/static/media/logo.0896681857cac9a2d5156d216f3af118.svg",
+    "main.32156fed.css.map": "/Sara-Holanda/static/css/main.32156fed.css.map",
+    "main.5b2f2a72.js.map": "/Sara-Holanda/static/js/main.5b2f2a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32156fed.css",
+    "static/js/main.5b2f2a72.js"
+  ]
+}
