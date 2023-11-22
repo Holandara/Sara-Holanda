@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sara-Holanda/static/css/main.c7f51568.css",
+    "main.css": "/Sara-Holanda/static/css/main.b36efc50.css",
     "main.js": "/Sara-Holanda/static/js/main.5b2f2a72.js",
     "static/media/anemone.ttf": "/Sara-Holanda/static/media/anemone.b0cea21569115bf61c40.ttf",
     "static/media/reactlogo.svg": "/Sara-Holanda/static/media/reactlogo.4ea2cb65ac0080970bfacc7e776ce781.svg",
@@ -12,11 +12,11 @@
     "static/media/cloud.svg": "/Sara-Holanda/static/media/cloud.8bc228103188364a46df906192c91869.svg",
     "index.html": "/Sara-Holanda/index.html",
     "static/media/logo.svg": "/Sara-Holanda/static/media/logo.0896681857cac9a2d5156d216f3af118.svg",
-    "main.c7f51568.css.map": "/Sara-Holanda/static/css/main.c7f51568.css.map",
+    "main.b36efc50.css.map": "/Sara-Holanda/static/css/main.b36efc50.css.map",
     "main.5b2f2a72.js.map": "/Sara-Holanda/static/js/main.5b2f2a72.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7f51568.css",
+    "static/css/main.b36efc50.css",
     "static/js/main.5b2f2a72.js"
   ]
 }
