@@ -5,6 +5,7 @@ A little bit more resources in this reactjs website.
 
 - Responsiveness
 - contact-me links
+- Small resumé
 
 # Tech Stack
 - Node
